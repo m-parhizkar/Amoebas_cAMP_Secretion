@@ -1,4 +1,9 @@
 package Cells;
+/**
+ * Decentralized Agent-based model: ABM
+ * Agents: no movement, just release the chemical signal
+ *
+ * */
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -29,7 +34,13 @@ public class Cell {
 
 	}
 	
-	//----------------------------------------Schadul Method-------------------------------
+	//----------------------------------------Schedule Method -------------------------------
+	/**
+	 * Actions scheduled on a Schedule will be executed in random order
+	 * According to the simulation clock
+	 * 
+	 * */ 
+	
 	@ScheduledMethod(start=1, interval=1)
 	public void step(){
 			if (!findEmptySites().isEmpty())
