@@ -163,3 +163,83 @@ WARN  [Thread-6] 2016-10-26 09:01:52,779 repast.simphony.space.grid.RandomGridAd
 WARN  [Thread-6] 2016-10-26 09:01:52,819 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
 WARN  [Thread-6] 2016-10-26 09:01:52,890 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
 WARN  [Thread-6] 2016-10-26 09:01:52,986 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 12:14:24,739 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 12:14:24,756 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 12:14:24,862 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 12:14:24,957 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 12:14:24,988 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 15:19:46,178 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 15:19:46,214 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 15:19:46,232 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 15:19:46,244 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 15:19:46,250 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 15:19:46,264 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 15:19:46,284 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 15:19:46,306 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 15:19:46,392 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-7] 2016-10-26 15:19:53,439 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-7] 2016-10-26 15:19:53,455 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-7] 2016-10-26 15:19:53,464 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-7] 2016-10-26 15:19:53,473 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-7] 2016-10-26 15:19:53,480 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-7] 2016-10-26 15:19:53,490 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-7] 2016-10-26 15:19:53,496 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-7] 2016-10-26 15:19:53,529 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-7] 2016-10-26 15:19:53,594 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 15:22:45,005 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 15:22:45,121 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 15:22:45,165 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 15:22:45,193 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 15:22:45,207 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 15:26:21,237 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 15:26:21,293 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 15:26:21,342 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 15:26:21,378 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 15:26:21,502 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 15:26:21,527 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+WARN  [Thread-6] 2016-10-26 15:26:21,595 repast.simphony.space.grid.RandomGridAdder - Possible hang in filling grid 'Grid': grid may be full. Please reduce number of agents added, use a larger grid, or write a custom GridAdder
+ERROR [AWT-EventQueue-0] 2016-10-26 15:30:50,101 repast.simphony.ui.RSApplication - Scenario Load Error
+repast.simphony.scenario.ScenarioLoadException: The content of elements must consist of well-formed character data or markup.
+	at repast.simphony.scenario.ScenarioLoader.load(ScenarioLoader.java:220)
+	at repast.simphony.ui.RSApplication.open(RSApplication.java:359)
+	at repast.simphony.ui.RSAppConfigurator.postWindowOpen(RSAppConfigurator.java:39)
+	at saf.core.ui.GUICreatorDelegate.runDisplay(GUICreatorDelegate.java:188)
+	at saf.core.ui.GUICreator$1.run(GUICreator.java:18)
+	at simphony.util.ThreadUtilities$Runner.run(ThreadUtilities.java:33)
+	at simphony.util.ThreadUtilities.runInEventThread(ThreadUtilities.java:47)
+	at saf.core.ui.GUICreator.runDisplay(GUICreator.java:16)
+	at repast.simphony.ui.RSUIPlugin$1.run(RSUIPlugin.java:104)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:312)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:745)
+	at java.awt.EventQueue.access$300(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:706)
+	at java.awt.EventQueue$3.run(EventQueue.java:704)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:715)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+Caused by: org.xml.sax.SAXParseException; systemId: file:/Users/m/Documents/workspace/Cells/Cells.rs/parameters.xml; lineNumber: 9; columnNumber: 7; The content of elements must consist of well-formed character data or markup.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:198)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:441)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1436)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.startOfMarkup(XMLDocumentFragmentScannerImpl.java:2622)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2734)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:648)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(SAXParserImpl.java:332)
+	at javax.xml.parsers.SAXParser.parse(SAXParser.java:328)
+	at repast.simphony.parameter.ParametersParser.<init>(ParametersParser.java:46)
+	at repast.simphony.scenario.ScenarioLoader.load(ScenarioLoader.java:168)
+	... 22 more

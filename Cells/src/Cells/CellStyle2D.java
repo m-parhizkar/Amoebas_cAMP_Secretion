@@ -23,7 +23,7 @@ public class CellStyle2D extends DefaultStyleOGL2D{
 	@Override
   public VSpatial getVSpatial(Object agent, VSpatial spatial) {
     if (spatial == null) {
-      spatial = shapeFactory.createRectangle(25, 25);
+      spatial = shapeFactory.createRectangle(20, 20);
     }
     return spatial;
   }
