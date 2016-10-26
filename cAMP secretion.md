@@ -1,0 +1,2 @@
+# Amoebas_cAMP_Secretion
+Dictyostelium discoideum is a social amoeba exhibiting distinct self- organising behaviour at different phases of its life - signalling lack of food, recruiting partners to create a single super-organism (slug) and moving in a coordinated way. Its life cycle starts from aggregation phase, then after some transformation hundred of starved amoebae become a slug. Then, each slug orientates itself towards the light and temperature. Eventually, every slug culminates in a fruiting body consisting of a globule of spore cells on a slender stalk.
