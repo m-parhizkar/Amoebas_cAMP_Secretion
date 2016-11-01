@@ -13,6 +13,7 @@ import repast.simphony.context.Context;
 import repast.simphony.engine.environment.RunEnvironment;
 import repast.simphony.engine.schedule.ScheduledMethod;
 import repast.simphony.parameter.Parameters;
+import repast.simphony.query.space.grid.GridCellNgh;
 import repast.simphony.random.RandomHelper;
 import repast.simphony.space.grid.Grid;
 import repast.simphony.space.grid.GridPoint;
@@ -27,11 +28,12 @@ import repast.simphony.util.ContextUtils;
  *
  */
 public class Cell {
+private Grid<Object> grid; 
 
 	
-	public Cell(){
+	public Cell(Grid<Object> grid2 ){
 		Parameters p = RunEnvironment.getInstance().getParameters();
-
+		this.grid=grid2; 
 	}
 	
 	//----------------------------------------Schedule Method -------------------------------
@@ -41,17 +43,28 @@ public class Cell {
 	 * 
 	 * */ 
 	
-	@ScheduledMethod(start=1, interval=1)
+	@ScheduledMethod(start=1, interval=1,priority=0)
 	public void step(){
+		
+		
 			if (!findEmptySites().isEmpty())
 				produce();
+			
+			
+			
+			//GridCellNgh<Initializer> nghCreator = new GridCellNgh<Initializer>(grid, pt,
+				//			Initializer.class, 1, 1);
+			
+			
+			
+			
 	}
 
 	private void produce(){		
 		Context context = ContextUtils.getContext(this);
 		Grid grid = (Grid)context.getProjection("Grid");
 	
-		Cell cell = new Cell();	
+		Cell cell = new Cell(grid );	
 		context.add(cell);
 		
 		List<GridPoint> emptySites = findEmptySites();
